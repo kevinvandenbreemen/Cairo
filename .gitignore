@@ -1,3 +1,5 @@
 Cairo.xcodeproj
 .build
 Packages
+/.vscode
+Package.resolved
